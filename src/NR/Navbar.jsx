@@ -10,7 +10,7 @@ class Navbar1 extends Component {
             <>
                 <Navbar bg="danger" variant="dark" expand="lg">
                     <Container>
-                        <Navbar.Brand href="/car">Home</Navbar.Brand>
+                        <Navbar.Brand href="/">Home</Navbar.Brand>
                         <Navbar.Toggle aria-controls="basic-navbar-nav" />
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="me-auto">
