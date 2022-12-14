@@ -1,5 +1,5 @@
 import axios from "axios";
-const baseURL = "http://localhost:2410";
+const baseURL = "https://app-api-5sp2.onrender.com";
 
 function get(url) {
   return axios.get(baseURL + url);
